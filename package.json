@@ -1,0 +1,22 @@
+{
+  "name": "cryptonote-util",
+  "version": "0.0.4",
+  "main": "cryptonote",
+  "author": {
+    "name": "edollar-project",
+    "email": "electronicdollar@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edollar-project/node-cryptonote-util.git"
+  },
+  "dependencies": {
+    "bindings": "*",
+    "nan": "^2.0.0"
+  },
+  "keywords": [
+    "edollar",
+    "cryptonight",
+    "cryptonote"
+  ]
+}
